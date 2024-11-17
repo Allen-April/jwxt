@@ -97,11 +97,18 @@
 
         <!-- Lombok Dependency -->
         <dependency>
+<!--            <groupId>org.projectlombok</groupId>-->
+<!--            <artifactId>lombok</artifactId>-->
+<!--            <version>1.18.24</version> -->
+<!--            <scope>provided</scope>-->
+
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.24</version> <!-- 请使用最新的稳定版本 -->
+            <version>1.18.32</version><!-- 请使用最新的稳定版本 -->
             <scope>provided</scope>
         </dependency>
+
+
 
     </dependencies>
 
