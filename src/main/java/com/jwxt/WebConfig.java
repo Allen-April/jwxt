@@ -6,7 +6,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * @version 1.0111gjhghj
- * @ClassName WebConfig
+ * @ClassName WebConfighjk
  * @Descript
  * @Author Allen
  * @Date 9/7/2024 上午11:08
